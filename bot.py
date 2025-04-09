@@ -18,7 +18,7 @@ tree = bot.tree
 
 RAID_DATA_FILE = "raid_data.json"
 
-GUILD_ID = 678023636820688928
+GUILD_ID = 1267503892405424199
 
 EMOJI_TO_ROLE = {
     "🛡️": "Tank",
