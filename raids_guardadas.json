@@ -1,0 +1,2252 @@
+{
+  "1357961904181481693": {
+    "nombre": "AVA20",
+    "hora": "03:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357961904181481693
+  },
+  "1357963714547941527": {
+    "nombre": "AVA20",
+    "hora": "04:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357963714547941527
+  },
+  "1357966235727564871": {
+    "nombre": "AVA20",
+    "hora": "04:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357966235727564871
+  },
+  "1357971690742616177": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357971690742616177
+  },
+  "1357979523228110970": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [
+        ".notagus"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357979523228110970
+  },
+  "1357981209648697487": {
+    "nombre": "AVA20",
+    "hora": "05:03",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [
+      ".notagus"
+    ],
+    "mensaje_id": 1357981209648697487
+  },
+  "1357984735808327830": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357984735808327830
+  },
+  "1357986571026038846": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [
+        ".notagus"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357986571026038846
+  },
+  "1357990451440779264": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [
+        ".notagus"
+      ],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357990451440779264
+  },
+  "1357990958935048213": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [
+      ".notagus"
+    ],
+    "mensaje_id": 1357990958935048213
+  },
+  "1357994033745629347": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [
+        ".notagus"
+      ],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357994033745629347
+  },
+  "1357998637602570403": {
+    "nombre": "AVA20",
+    "hora": "09:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [
+        "<@544260875171659776>"
+      ],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1357998637602570403
+  },
+  "1358005156196909220": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        ".notagus"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1358005156196909220
+  },
+  "1358005632804065432": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [
+        "<@544260875171659776>"
+      ],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1358005632804065432
+  },
+  "1358007444097339502": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1358007444097339502
+  },
+  "1358009570420592690": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1358009570420592690
+  },
+  "1358015397126995975": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [
+      "<@544260875171659776>"
+    ],
+    "mensaje_id": 1358015397126995975
+  },
+  "1358016215917920327": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "DPS": []
+    },
+    "cola": [],
+    "mensaje_id": 1358016215917920327
+  },
+  "1358021252702408765": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358021252702408765
+  },
+  "1358021731603976324": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [
+        "<@828624407441440779>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358021731603976324
+  },
+  "1358024038638817481": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358024038638817481
+  },
+  "1358025915766149230": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358025915766149230
+  },
+  "1358026731344236604": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [
+        "<@544260875171659776>"
+      ],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358026731344236604
+  },
+  "1358029610247262269": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358029610247262269
+  },
+  "1358030162494754827": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [
+        "<@544260875171659776>"
+      ],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358030162494754827
+  },
+  "1358032057242095697": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358032057242095697
+  },
+  "1358033816396238999": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358033816396238999
+  },
+  "1358034144893992970": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [
+      "<@544260875171659776>"
+    ],
+    "mensaje_id": 1358034144893992970
+  },
+  "1358034476072177774": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358034476072177774
+  },
+  "1358035595217080441": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358035595217080441
+  },
+  "1358036011443028079": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@544260875171659776>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [
+        "<@828624407441440779>"
+      ],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358036011443028079
+  },
+  "1358036525069238322": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [
+        "<@828624407441440779>"
+      ],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358036525069238322
+  },
+  "1358036712915341534": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358036712915341534
+  },
+  "1358037130768683058": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        "<@828624407441440779>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358037130768683058
+  },
+  "1358037527772135564": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [
+        "<@828624407441440779>"
+      ],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358037527772135564
+  },
+  "1358039607861706883": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358039607861706883
+  },
+  "1358042452535017522": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [
+        "<@828624407441440779>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358042452535017522
+  },
+  "1358042945701413064": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358042945701413064
+  },
+  "1358043349080346836": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [
+        "<@544260875171659776>"
+      ],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [
+      "<@828624407441440779>"
+    ],
+    "mensaje_id": 1358043349080346836
+  },
+  "1358043987654742128": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [
+        "<@828624407441440779>"
+      ]
+    },
+    "cola": [],
+    "mensaje_id": 1358043987654742128
+  },
+  "1358044413003169913": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [
+        "<@828624407441440779>",
+        "<@544260875171659776>"
+      ],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358044413003169913
+  },
+  "1358045774696419339": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [
+      "<@544260875171659776>",
+      "<@828624407441440779>"
+    ],
+    "mensaje_id": 1358045774696419339
+  },
+  "1358046196840792244": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358046196840792244
+  },
+  "1358046712068833311": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@544260875171659776>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358046712068833311
+  },
+  "1358047070224908458": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@544260875171659776>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358047070224908458
+  },
+  "1358047395467759846": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358047395467759846
+  },
+  "1358047588972101662": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358047588972101662
+  },
+  "1358048192733646898": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358048192733646898
+  },
+  "1358049282199912629": {
+    "nombre": "AVA20",
+    "hora": "12:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [
+      "<@544260875171659776>"
+    ],
+    "mensaje_id": 1358049282199912629
+  },
+  "1358050848168742945": {
+    "nombre": "AVA20",
+    "hora": "00:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358050848168742945
+  },
+  "1358051894571831457": {
+    "nombre": "AVA20",
+    "hora": "02:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358051894571831457
+  },
+  "1358052009470591127": {
+    "nombre": "AVA20",
+    "hora": "00:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358052009470591127
+  },
+  "1358052250874020031": {
+    "nombre": "AVA20",
+    "hora": "01:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358052250874020031
+  },
+  "1358052458651320382": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358052458651320382
+  },
+  "1358052617233760306": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358052617233760306
+  },
+  "1358052744514109604": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358052744514109604
+  },
+  "1358054443895230585": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358054443895230585
+  },
+  "1358062685270311084": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358062685270311084
+  },
+  "1358076345472778361": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358076345472778361
+  },
+  "1358113778331423041": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358113778331423041
+  },
+  "1358114814001549623": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [
+      "<@544260875171659776>"
+    ],
+    "mensaje_id": 1358114814001549623
+  },
+  "1358116475105447977": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358116475105447977
+  },
+  "1358122631777489078": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358122631777489078
+  },
+  "1358124396719636712": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [
+        "<@544260875171659776>"
+      ]
+    },
+    "cola": [],
+    "mensaje_id": 1358124396719636712
+  },
+  "1358127647061971085": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358127647061971085
+  },
+  "1358137009629040901": {
+    "nombre": "AVA20",
+    "hora": "23:59",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [
+        "<@544260875171659776>"
+      ]
+    },
+    "cola": [],
+    "mensaje_id": 1358137009629040901
+  },
+  "1358139027366350940": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358139027366350940
+  },
+  "1358144487221891342": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [
+        "<@828624407441440779>"
+      ],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358144487221891342
+  },
+  "1358154014943875113": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358154014943875113
+  },
+  "1358158448067477556": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358158448067477556
+  },
+  "1358162276145955017": {
+    "nombre": "AVA20",
+    "hora": "21:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@544260875171659776>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358162276145955017
+  },
+  "1358165677566984202": {
+    "nombre": "AVA20",
+    "hora": "23:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [
+        "<@544260875171659776>"
+      ],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1358165677566984202
+  },
+  "1358196533031473272": {
+    "nombre": "AVA20",
+    "hora": "03:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [
+        "<@1098606127245185034>"
+      ],
+      "Silencio": [
+        "<@746086391540351110>"
+      ],
+      "Gran Arcano": [
+        "<@619334123663654942>"
+      ],
+      "Ra\u00edz f\u00e9rrea": [
+        "<@234386072354816002>"
+      ],
+      "Ra\u00edz f\u00e9rrea BMS": [
+        "<@1106022660791611402>"
+      ],
+      "Flam\u00edgero": [
+        "<@1193524357755060265>"
+      ],
+      "Espectro": [],
+      "Romperreinos": [],
+      "Shadowcaller": [
+        "<@182114918894534656>"
+      ],
+      "Lightcaller": [],
+      "Frost": [
+        "<@700462492689760336>",
+        "<@542132481856372776>"
+      ],
+      "Ballesta": [
+        "<@458869193790455818>",
+        "<@334171997078552576>",
+        "<@544260875171659776>"
+      ]
+    },
+    "cola": [
+      "<@1137540570538065997>"
+    ],
+    "mensaje_id": 1358196533031473272
+  },
+  "1359513654399074507": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359513654399074507
+  },
+  "1359521499861483612": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359521499861483612,
+    "canal_id": 1232906225851564115
+  },
+  "1359522373333684324": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359522373333684324,
+    "canal_id": 1232906225851564115
+  },
+  "1359523453019099167": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359523453019099167,
+    "canal_id": 1232906225851564115
+  },
+  "1359524648001339424": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359524648001339424,
+    "canal_id": 1232906225851564115
+  },
+  "1359524980353663138": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359524980353663138,
+    "canal_id": 1232906225851564115
+  },
+  "1359527989896941770": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359527989896941770,
+    "canal_id": 1232906225851564115
+  },
+  "1359529159122096328": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359529159122096328,
+    "canal_id": 1232906225851564115
+  },
+  "1359530329718919442": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359530329718919442,
+    "canal_id": 1232906225851564115
+  },
+  "1359530735811301568": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359530735811301568,
+    "canal_id": 1232906225851564115
+  },
+  "1359530812910993548": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359530812910993548,
+    "canal_id": 1232906225851564115
+  },
+  "1359531166004285611": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359531166004285611,
+    "canal_id": 1232906225851564115
+  },
+  "1359532200697004203": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@544260875171659776>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359532200697004203,
+    "canal_id": 1232906225851564115
+  },
+  "1359532603211911369": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [
+        "<@544260875171659776>"
+      ],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359532603211911369,
+    "canal_id": 1232906225851564115
+  },
+  "1359534705006874725": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359534705006874725,
+    "canal_id": 1232906225851564115
+  },
+  "1359535196981956823": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359535196981956823,
+    "canal_id": 1232906225851564115
+  },
+  "1359536308808319107": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359536308808319107,
+    "canal_id": 1232906225851564115
+  },
+  "1359544184955994123": {
+    "nombre": "AVA20",
+    "hora": null,
+    "roles": {
+      "Main Tank": [
+        "<@544260875171659776>"
+      ],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": []
+    },
+    "cola": [],
+    "mensaje_id": 1359544184955994123,
+    "canal_id": 1232906225851564115
+  },
+  "1359551069319069716": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359551069319069716,
+    "canal_id": 1232906225851564115
+  },
+  "1359551559951843626": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359551559951843626,
+    "canal_id": 1232906225851564115
+  },
+  "1359551995517734984": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [
+        "<@828624407441440779>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359551995517734984,
+    "canal_id": 1232906225851564115
+  },
+  "1359553574845153605": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359553574845153605,
+    "canal_id": 1232906225851564115
+  },
+  "1359555766213935165": {
+    "nombre": "AVA20",
+    "hora": "20:00",
+    "roles": {
+      "Main Tank": [],
+      "Offtank": [],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359555766213935165,
+    "canal_id": 1232906225851564115
+  },
+  "1359558916543086704": {
+    "nombre": "AVA20",
+    "hora": "10:00",
+    "roles": {
+      "Main Tank": [
+        "<@1193524357755060265>"
+      ],
+      "Offtank": [
+        "<@1038286106145341501>"
+      ],
+      "Healer Principal": [],
+      "Silencio": [],
+      "Gran Arcano": [],
+      "Ra\u00edz f\u00e9rrea": [],
+      "Ra\u00edz f\u00e9rrea BMS": [],
+      "Flam\u00edgero": [],
+      "Romperreinos": [],
+      "Shadowcaller": [],
+      "Espectro": [],
+      "Lightcaller": [],
+      "Frost": [],
+      "Ballesta": [],
+      "Scout": []
+    },
+    "cola": [],
+    "mensaje_id": 1359558916543086704,
+    "canal_id": 1295272113510547457
+  }
+}
