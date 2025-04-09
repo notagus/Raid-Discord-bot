@@ -56,7 +56,7 @@ def guardar_datos():
 def generar_embed(nombre, data):
     embed = discord.Embed(
         title=f"📣 GRUPALES {nombre}",
-        description="GRUPALES 7.3\nSET T8.1+\nSALIMOS DESDE HO ABSOLUTE",
+        description="GRUPALES 7.3\nSET T8.1+\nSALIMOS DESDE HO ABSOLUTE\nSET DE PELEA T8+",
         color=0x8e44ad
     )
 
@@ -81,7 +81,7 @@ def generar_embed(nombre, data):
                 inline=False
             )
         else:
-            embed.add_field(name="⏳ Tiempo restante", value="La raid ya ha comenzado o la hora es pasada.", inline=False)
+            embed.add_field(name="⏳ Tiempo restante", value="Las grupales ya han comenzado o la hora es pasada.", inline=False)
 
     texto = ""
 
@@ -223,8 +223,8 @@ async def on_raw_reaction_remove(payload):
 
 
 @tree.command(name="ping", description="Crear plantilla de raid", guild=discord.Object(id=GUILD_ID))
-@app_commands.describe(nombre="Nombre de la plantilla (por ahora solo AVA20)", hora="Hora en formato HH:MM (UTC)")
-@app_commands.choices(nombre=[app_commands.Choice(name="AVA20", value="AVA20")])
+@app_commands.describe(nombre="Nombre de la plantilla", hora="Hora en formato HH:MM (UTC)")
+@app_commands.choices(nombre=[app_commands.Choice(name="GRUPALES", value="GRUPALES")])
 async def ping(interaction: discord.Interaction, nombre: app_commands.Choice[str], hora: str = None):
     try:
         if not any(role.name == "Raider" for role in interaction.user.roles):
