@@ -25,7 +25,7 @@ EMOJI_TO_ROLE = {
     "❤️": "Healer Principal",
     "🔥": "Flamígero o pollo",
     "🌑": "Shadowcaller",
-    "❄️": "Frost",
+    "❄️": "Frost"
 }
 
 ROLE_LIMITS = {
@@ -89,7 +89,7 @@ def generar_embed(nombre, data):
         ["🛡️"],                         # Roles principales
         ["❤️"],                   # Soporte
         ["🌑"],                   # DPS especiales
-        ["🔥”, "❄️"],                                     # DPS genérico
+        ["🔥", "❄️"],                                     # DPS genérico
     ]
 
     for fila in filas:
