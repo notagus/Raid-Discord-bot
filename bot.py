@@ -23,7 +23,7 @@ GUILD_ID = 678023636820688928
 EMOJI_TO_ROLE = {
     "🛡️": "Tank",
     "❤️": "Healer Principal",
-    "🔥": "Flamígero o pollo”,
+    "🔥": "Flamígero o pollo",
     "🌑": "Shadowcaller",
     "❄️": "Frost",
 }
