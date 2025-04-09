@@ -21,39 +21,19 @@ RAID_DATA_FILE = "raid_data.json"
 GUILD_ID = 678023636820688928
 
 EMOJI_TO_ROLE = {
-    "🛡️": "Main Tank",
-    "🪖": "Offtank",
+    "🛡️": "Tank",
     "❤️": "Healer Principal",
-    "🔇": "Silencio",
-    "✨": "Gran Arcano",
-    "🌱": "Raíz férrea",
-    "⚡": "Raíz férrea BMS",
-    "🔥": "Flamígero",
-    "🪓": "Romperreinos",
+    "🔥": "Flamígero o pollo”,
     "🌑": "Shadowcaller",
-    "👻": "Espectro",
-    "🐔": "Lightcaller",
     "❄️": "Frost",
-    "🎯" : "Ballesta",
-    "🕵️": "Scout"
 }
 
 ROLE_LIMITS = {
-    "Main Tank": 1,
-    "Offtank": 1,
+    "Tank": 1,
     "Healer Principal": 1,
-    "Silencio": 1,
-    "Gran Arcano": 1,
-    "Raíz férrea": 1,
-    "Raíz férrea BMS": 1,
-    "Flamígero": 1,
-    "Romperreinos": 1,
+    "Flamígero o pollo": 1,
     "Shadowcaller": 1,
-    "Espectro": 1,
-    "Lightcaller": 1,
-    "Frost": 4,
-    "Ballesta": 4,
-    "Scout": 1
+    "Frost": 1
 }
 
 EN_COLA_EMOJI = "📥"
@@ -75,8 +55,8 @@ def guardar_datos():
 
 def generar_embed(nombre, data):
     embed = discord.Embed(
-        title=f"📣 Raid: {nombre}",
-        description="AVALONIANA DE 20\nSET T8+\nSALIMOS DESDE BRIDGEWATCH PORTAL\nBUILDS EN BUILDS-AVA",
+        title=f"📣 GRUPALES {nombre}",
+        description="GRUPALES 7.3\nSET T8.1+\nSALIMOS DESDE HO ABSOLUTE",
         color=0x8e44ad
     )
 
@@ -106,10 +86,10 @@ def generar_embed(nombre, data):
     texto = ""
 
     filas = [
-        ["🛡️", "🪖", "❤️"],                         # Roles principales
-        ["🔇", "✨", "🌱", "⚡"],                   # Soporte
-        ["🔥", "🪓",  "🌑", "👻"],                   # DPS especiales
-        ["🐔", "❄️", "🎯", "🕵️"],                                     # DPS genérico
+        ["🛡️"],                         # Roles principales
+        ["❤️"],                   # Soporte
+        ["🌑"],                   # DPS especiales
+        ["🔥”, "❄️"],                                     # DPS genérico
     ]
 
     for fila in filas:
