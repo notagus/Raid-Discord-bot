@@ -23,16 +23,16 @@ GUILD_ID = 1267503892405424199
 EMOJI_TO_ROLE = {
     "🛡️": "Tank",
     "❤️": "Healer Principal",
-    "🔥": "Flamígero o pollo",
     "🌑": "Shadowcaller",
+    "🔥": "Flamígero o pollo",
     "❄️": "Frost"
 }
 
 ROLE_LIMITS = {
     "Tank": 1,
     "Healer Principal": 1,
-    "Flamígero o pollo": 1,
     "Shadowcaller": 1,
+    "Flamígero o pollo": 1,
     "Frost": 1
 }
 
@@ -55,8 +55,8 @@ def guardar_datos():
 
 def generar_embed(nombre, data):
     embed = discord.Embed(
-        title=f"📣 GRUPALES {nombre}",
-        description="GRUPALES 7.3\nSET T8.1+\nSALIMOS DESDE HO ABSOLUTE\nSET DE PELEA T8+",
+        title=f"📣 CONTENT {nombre}",
+        description="SET T8.1+\nSALIMOS DESDE HO ABSOLUTE\nSET DE PELEA T8+",
         color=0x8e44ad
     )
 
