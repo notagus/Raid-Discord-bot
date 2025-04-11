@@ -22,7 +22,7 @@ GUILD_ID = 1267503892405424199
 
 EMOJI_TO_ROLE = {
     "🛡️": "Tank",
-    "❤️": "Healer Principal",
+    "❤️": "Healer",
     "🌑": "Shadowcaller",
     "🔥": "Flamígero o pollo",
     "❄️": "Frost"
@@ -30,7 +30,7 @@ EMOJI_TO_ROLE = {
 
 ROLE_LIMITS = {
     "Tank": 1,
-    "Healer Principal": 1,
+    "Healer": 1,
     "Shadowcaller": 1,
     "Flamígero o pollo": 1,
     "Frost": 1
@@ -56,7 +56,7 @@ def guardar_datos():
 def generar_embed(nombre, data):
     embed = discord.Embed(
         title=f"📣 CONTENT {nombre}",
-        description="SET T8.1+\nSALIMOS DESDE HO ABSOLUTE\nSET DE PELEA T8+",
+        description="SET PVE T8.1+\nLLEVAR SWAP DE PELEA T8+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE",
         color=0x8e44ad
     )
 
@@ -65,7 +65,7 @@ def generar_embed(nombre, data):
         hora_raid_str = data['hora']
         hora_raid = datetime.strptime(hora_raid_str, "%H:%M").replace(year=datetime.now().year, month=datetime.now().month, day=datetime.now().day, tzinfo=timezone.utc)
 
-        embed.add_field(name="⏰ Hora (UTC)", value=f"{hora_raid_str} UTC", inline=False)
+        embed.add_field(name="⏰ Hora", value=f"{hora_raid_str} UTC", inline=False)
 
         # Calcular el tiempo restante
         ahora_utc = datetime.now(timezone.utc)
@@ -122,7 +122,7 @@ def generar_embed(nombre, data):
         texto += "\n📥 **Suplentes:** -"
 
     embed.add_field(name="👥 Composición", value=texto.strip(), inline=False)
-    embed.set_footer(text="💡Tip: ¡No olvides tener tu build lista 30 minutos antes de salir!")
+    embed.set_footer(text="💡Tip: ¡Si no estás mencionado en el ping no vas! (no cuenta decirlo en el hilo)")
 
     return embed
 
