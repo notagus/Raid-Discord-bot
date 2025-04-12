@@ -18,7 +18,7 @@ tree = bot.tree
 
 RAID_DATA_FILE = "raid_data.json"
 
-GUILD_ID = 678023636820688928
+GUILD_ID = 1295255290530238475
 
 EMOJI_TO_ROLE = {
     "🛡️": "Main Tank",
@@ -85,7 +85,7 @@ def generar_embed(nombre, data):
         hora_raid_str = data['hora']
         hora_raid = datetime.strptime(hora_raid_str, "%H:%M").replace(year=datetime.now().year, month=datetime.now().month, day=datetime.now().day, tzinfo=timezone.utc)
 
-        embed.add_field(name="⏰ Hora (UTC)", value=f"{hora_raid_str} UTC", inline=False)
+        embed.add_field(name="⏰ Hora", value=f"{hora_raid_str} UTC", inline=False)
 
         # Calcular el tiempo restante
         ahora_utc = datetime.now(timezone.utc)
