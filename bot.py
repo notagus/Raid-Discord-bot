@@ -44,14 +44,14 @@ ROLE_LIMITS = {
     "Healer Principal": 1,
     "Silencio": 1,
     "Gran Arcano": 1,
-    "Raíz férrea": 1,
+    "Raíz férrea": 3,
     "Raíz férrea BMS": 1,
     "Flamígero": 1,
     "Romperreinos": 1,
     "Shadowcaller": 1,
     "Espectro": 1,
     "Lightcaller": 1,
-    "Frost": 4,
+    "Frost": 2,
     "Ballesta": 4,
     "Scout": 1
 }
@@ -142,7 +142,7 @@ def generar_embed(nombre, data):
         texto += "\n📥 **Suplentes:** -"
 
     embed.add_field(name="👥 Composición", value=texto.strip(), inline=False)
-    embed.set_footer(text="💡Tip: ¡No olvides tener tu build lista 30 minutos antes de salir!")
+    embed.set_footer(text="💡Tip: ¡No olvides tener tu build lista con todos los swaps 30 minutos antes de salir!")
 
     return embed
 
