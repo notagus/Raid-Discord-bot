@@ -18,42 +18,22 @@ tree = bot.tree
 
 RAID_DATA_FILE = "raid_data.json"
 
-GUILD_ID = 1295255290530238475
+GUILD_ID = 1267503892405424199
 
 EMOJI_TO_ROLE = {
-    "🛡️": "Main Tank",
-    "🪖": "Offtank",
-    "❤️": "Healer Principal",
-    "🔇": "Silencio",
-    "✨": "Gran Arcano",
-    "🌱": "Raíz férrea",
-    "⚡": "Raíz férrea BMS",
-    "🔥": "Flamígero",
-    "🪓": "Romperreinos",
+    "🛡️": "Tank",
+    "❤️": "Healer",
     "🌑": "Shadowcaller",
-    "👻": "Espectro",
-    "🐔": "Lightcaller",
-    "❄️": "Frost",
-    "🎯" : "Ballesta",
-    "🕵️": "Scout"
+    "🔥": "Flamígero o pollo",
+    "❄️": "Frost"
 }
 
 ROLE_LIMITS = {
-    "Main Tank": 1,
-    "Offtank": 1,
-    "Healer Principal": 1,
-    "Silencio": 1,
-    "Gran Arcano": 1,
-    "Raíz férrea": 3,
-    "Raíz férrea BMS": 1,
-    "Flamígero": 1,
-    "Romperreinos": 1,
+    "Tank": 1,
+    "Healer": 1,
     "Shadowcaller": 1,
-    "Espectro": 1,
-    "Lightcaller": 1,
-    "Frost": 2,
-    "Ballesta": 4,
-    "Scout": 1
+    "Flamígero o pollo": 1,
+    "Frost": 1
 }
 
 EN_COLA_EMOJI = "📥"
@@ -75,8 +55,8 @@ def guardar_datos():
 
 def generar_embed(nombre, data):
     embed = discord.Embed(
-        title=f"📣 Raid: {nombre}",
-        description="AVALONIANA DE 20\nSET T8+\nSALIMOS DESDE BRIDGEWATCH PORTAL\nBUILDS EN BUILDS-AVA",
+        title=f"📣 CONTENT {nombre}",
+        description="SET PVE T8.1+\nLLEVAR SWAP DE PELEA T8+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE",
         color=0x8e44ad
     )
 
@@ -101,15 +81,15 @@ def generar_embed(nombre, data):
                 inline=False
             )
         else:
-            embed.add_field(name="⏳ Tiempo restante", value="La raid ya ha comenzado o la hora es pasada.", inline=False)
+            embed.add_field(name="⏳ Tiempo restante", value="Las grupales ya han comenzado o la hora es pasada.", inline=False)
 
     texto = ""
 
     filas = [
-        ["🛡️", "🪖", "❤️"],                         # Roles principales
-        ["🔇", "✨", "🌱", "⚡"],                   # Soporte
-        ["🔥", "🪓",  "🌑", "👻"],                   # DPS especiales
-        ["🐔", "❄️", "🎯", "🕵️"],                                     # DPS genérico
+        ["🛡️"],                         # Roles principales
+        ["❤️"],                   # Soporte
+        ["🌑"],                   # DPS especiales
+        ["🔥", "❄️"],                                     # DPS genérico
     ]
 
     for fila in filas:
@@ -142,7 +122,7 @@ def generar_embed(nombre, data):
         texto += "\n📥 **Suplentes:** -"
 
     embed.add_field(name="👥 Composición", value=texto.strip(), inline=False)
-    embed.set_footer(text="💡Tip: ¡No olvides tener tu build lista con todos los swaps 30 minutos antes de salir!")
+    embed.set_footer(text="💡Tip: ¡Si no estás mencionado en el ping no vas! (no cuenta decirlo en el hilo)")
 
     return embed
 
@@ -243,8 +223,8 @@ async def on_raw_reaction_remove(payload):
 
 
 @tree.command(name="ping", description="Crear plantilla de raid", guild=discord.Object(id=GUILD_ID))
-@app_commands.describe(nombre="Nombre de la plantilla (por ahora solo AVA20)", hora="Hora en formato HH:MM (UTC)")
-@app_commands.choices(nombre=[app_commands.Choice(name="AVA20", value="AVA20")])
+@app_commands.describe(nombre="Nombre de la plantilla", hora="Hora en formato HH:MM (UTC)")
+@app_commands.choices(nombre=[app_commands.Choice(name="GRUPALES", value="GRUPALES")])
 async def ping(interaction: discord.Interaction, nombre: app_commands.Choice[str], hora: str = None):
     try:
         if not any(role.name == "Raider" for role in interaction.user.roles):
