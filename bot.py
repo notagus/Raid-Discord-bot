@@ -56,7 +56,7 @@ def guardar_datos():
 def generar_embed(nombre, data):
     embed = discord.Embed(
         title=f"📣 CONTENT {nombre}",
-        description="SET PVE T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE",
+        description="SET PVE T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE CUANDO SE LLENEN ROLES\nLOS ESPERO HASTA LA HORA INDICADA",
         color=0x8e44ad
     )
 
