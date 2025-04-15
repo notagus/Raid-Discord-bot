@@ -81,13 +81,13 @@ def generar_embed(nombre, data):
         embed.add_field(name="⏰ Hora", value=f"{hora_raid_str} UTC", inline=False)
 
         # Calcular el tiempo restante
-        ahora_utc = datetime.now(timezone.utc)
         tiempo_restante = hora_raid - ahora_utc
 
-        if tiempo_restante.total_seconds() > 0:
+        # Si el tiempo restante es muy pequeño o negativo por poco margen
+        if tiempo_restante.total_seconds() > -60:  # permitimos hasta 1 min de diferencia
             total_minutos = int(tiempo_restante.total_seconds() // 60)
-            horas_restantes = total_minutos // 60
-            minutos_restantes = total_minutos % 60
+            horas_restantes = max(0, total_minutos // 60)
+            minutos_restantes = max(0, total_minutos % 60)
             embed.add_field(
                 name="⏳ Tiempo restante",
                 value=f"{horas_restantes} horas y {minutos_restantes} minutos",
@@ -95,9 +95,9 @@ def generar_embed(nombre, data):
             )
         else:
             embed.add_field(
-                name="⏳ Tiempo restante",
-                value="Las grupales ya han comenzado o la hora es pasada.",
-                inline=False
+            name="⏳ Tiempo restante",
+            value="Las grupales ya han comenzado o la hora es pasada.",
+            inline=False
             )
 
     texto = ""
