@@ -63,7 +63,20 @@ def generar_embed(nombre, data):
     if data.get('hora'):
         # Hora de la raid (en UTC)
         hora_raid_str = data['hora']
-        hora_raid = datetime.strptime(hora_raid_str, "%H:%M").replace(year=datetime.now().year, month=datetime.now().month, day=datetime.now().day, tzinfo=timezone.utc)
+        # Obtener la hora actual en UTC
+        ahora_utc = datetime.now(timezone.utc)
+
+        # Crear datetime de la raid para hoy
+        hora_raid = datetime.strptime(hora_raid_str, "%H:%M").replace(
+            year=ahora_utc.year,
+            month=ahora_utc.month,
+            day=ahora_utc.day,
+            tzinfo=timezone.utc
+    )
+
+    # Si ya pasó, se asume que es para mañana
+    if hora_raid < ahora_utc:
+        hora_raid += timedelta(days=1)
 
         embed.add_field(name="⏰ Hora", value=f"{hora_raid_str} UTC", inline=False)
 
