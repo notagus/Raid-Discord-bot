@@ -63,7 +63,6 @@ def generar_embed(nombre, data):
     if data.get('hora'):
         # Hora de la raid (en UTC)
         hora_raid_str = data['hora']
-        # Obtener la hora actual en UTC
         ahora_utc = datetime.now(timezone.utc)
 
         # Crear datetime de la raid para hoy
@@ -72,22 +71,23 @@ def generar_embed(nombre, data):
             month=ahora_utc.month,
             day=ahora_utc.day,
             tzinfo=timezone.utc
-    )
+        )
 
-    # Si ya pasó, se asume que es para mañana
-    if hora_raid < ahora_utc:
-        hora_raid += timedelta(days=1)
+        # Si ya pasó, se asume que es para mañana
+        if hora_raid < ahora_utc:
+            hora_raid += timedelta(days=1)
 
+        # Mostrar hora fija en el embed
         embed.add_field(name="⏰ Hora", value=f"{hora_raid_str} UTC", inline=False)
 
-        # Calcular el tiempo restante
+        # Calcular tiempo restante
         tiempo_restante = hora_raid - ahora_utc
+        total_segundos = int(tiempo_restante.total_seconds())
 
-        # Si el tiempo restante es muy pequeño o negativo por poco margen
-        if tiempo_restante.total_seconds() > -60:  # permitimos hasta 1 min de diferencia
-            total_minutos = int(tiempo_restante.total_seconds() // 60)
-            horas_restantes = max(0, total_minutos // 60)
-            minutos_restantes = max(0, total_minutos % 60)
+        if total_segundos >= 0:
+            total_minutos = total_segundos // 60
+            horas_restantes = total_minutos // 60
+            minutos_restantes = total_minutos % 60
             embed.add_field(
                 name="⏳ Tiempo restante",
                 value=f"{horas_restantes} horas y {minutos_restantes} minutos",
@@ -95,9 +95,9 @@ def generar_embed(nombre, data):
             )
         else:
             embed.add_field(
-            name="⏳ Tiempo restante",
-            value="Las grupales ya han comenzado o la hora es pasada.",
-            inline=False
+                name="⏳ Tiempo restante",
+                value="Las grupales ya han comenzado o la hora es pasada.",
+                inline=False
             )
 
     texto = ""
