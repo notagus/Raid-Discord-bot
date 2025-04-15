@@ -84,17 +84,21 @@ def generar_embed(nombre, data):
         ahora_utc = datetime.now(timezone.utc)
         tiempo_restante = hora_raid - ahora_utc
 
-        # Si la hora de la raid ya pasó o está muy cerca, no mostrar el contador
         if tiempo_restante.total_seconds() > 0:
-            horas_restantes = tiempo_restante.seconds // 3600
-            minutos_restantes = (tiempo_restante.seconds % 3600) // 60
+            total_minutos = int(tiempo_restante.total_seconds() // 60)
+            horas_restantes = total_minutos // 60
+            minutos_restantes = total_minutos % 60
             embed.add_field(
                 name="⏳ Tiempo restante",
                 value=f"{horas_restantes} horas y {minutos_restantes} minutos",
                 inline=False
             )
         else:
-            embed.add_field(name="⏳ Tiempo restante", value="Las grupales ya han comenzado o la hora es pasada.", inline=False)
+            embed.add_field(
+                name="⏳ Tiempo restante",
+                value="Las grupales ya han comenzado o la hora es pasada.",
+                inline=False
+            )
 
     texto = ""
 
