@@ -24,16 +24,16 @@ EMOJI_TO_ROLE = {
     "🛡️": "Tank",
     "❤️": "Healer",
     "🌑": "Shadowcaller",
-    "🔥": "Flamígero o pollo",
-    "❄️": "Frost"
+    "🔥": "Flamígero",
+    "❄️": "Frost o pollo"
 }
 
 ROLE_LIMITS = {
     "Tank": 1,
     "Healer": 1,
     "Shadowcaller": 1,
-    "Flamígero o pollo": 1,
-    "Frost": 1
+    "Flamígero": 1,
+    "Frost o pollo": 1
 }
 
 EN_COLA_EMOJI = "📥"
@@ -56,7 +56,7 @@ def guardar_datos():
 def generar_embed(nombre, data):
     embed = discord.Embed(
         title=f"📣 CONTENT {nombre}",
-        description="SET PVE T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE CUANDO SE LLENEN ROLES\nLOS ESPERO HASTA LA HORA INDICADA",
+        description="SET PVE T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE CUANDO SE LLENEN ROLES\nDE NO LLENAR ROLES SE CANCELA\nLOS ESPERO HASTA LA HORA INDICADA",
         color=0x8e44ad
     )
 
@@ -133,10 +133,10 @@ def generar_embed(nombre, data):
 
     # Suplentes
     if data['cola']:
-        texto += "\n📥 **Suplentes:**\n"
+        texto += "\n📥 **En Cola:**\n"
         texto += ", ".join([f"{i+1}. {n}" for i, n in enumerate(data['cola'])])
     else:
-        texto += "\n📥 **Suplentes:** -"
+        texto += "\n📥 **En Cola:** -"
 
     embed.add_field(name="👥 Composición", value=texto.strip(), inline=False)
     embed.set_footer(text="💡Tip: ¡Si no estás mencionado en el ping no vas! (no cuenta decirlo en el hilo)")
