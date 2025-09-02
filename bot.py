@@ -56,7 +56,7 @@ def guardar_datos():
 def generar_embed(nombre, data):
     embed = discord.Embed(
         title=f"📣 GRUPALES 7.3",
-        description="SET PVE T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE HO ABSOLUTE CUANDO SE LLENEN ROLES\nDE NO LLENAR ROLES SE CANCELA",
+        description="SET PVE DE PREFERENCIA T8.1+\nREACCIONAR AL MENSAJE PARA ANOTARTE\nSALIMOS DESDE EL HO DE CAMINOS CUANDO SE LLENEN ROLES\nDE NO LLENAR ROLES SE CANCELA",
         color=0x8e44ad
     )
 
