@@ -131,12 +131,12 @@ def generar_embed(nombre, data):
         if nombres_linea:
             texto += nombres_linea.strip() + "\n"
 
-    # Suplentes
+    # En Cola
     if data['cola']:
-        texto += "\n📥 **En Cola:**\n"
+        texto += "\n📥 **ESPERANDO:**\n"
         texto += ", ".join([f"{i+1}. {n}" for i, n in enumerate(data['cola'])])
     else:
-        texto += "\n📥 **En Cola:** -"
+        texto += "\n📥 **ESPERANDO:** -"
 
     embed.add_field(name="👥 Composición", value=texto.strip(), inline=False)
     embed.set_footer(text="💡Tip: ¡Si no estás mencionado en el ping no vas! (no cuenta decirlo en el hilo)")
