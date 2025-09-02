@@ -104,9 +104,10 @@ def generar_embed(nombre, data):
 
     filas = [
         ["🛡️"],                         # Roles principales
-        ["❤️"],                   # Soporte
-        ["🌑"],                   # DPS especiales
-        ["🔥", "❄️"],                                     # DPS genérico
+        ["❤️"],                   # Healer
+        ["🌑"],                   # Soporte
+        ["🔥"],                   # DPS genérico
+        ["❄️"],
     ]
 
     for fila in filas:
